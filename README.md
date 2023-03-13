@@ -9,6 +9,6 @@ Every day I try to learn something new and solve problems by coding. I am creati
 
 ## FIND ME
 <p>
-  <a href="https://www.linkedin.com/in/gustavoalexandre1/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" alt="icone_do_linkedin"></a>
+  <a href="https://www.linkedin.com/in/gualeds/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" alt="icone_do_linkedin"></a>
 </p>
 
