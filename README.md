@@ -1,6 +1,8 @@
 ## Hi, DEV's! My name is Gustavo and bellow you can meet me better
 
-I'm an *developer* who seeks knowledge every day! I believe that 99.9% (probaly more, trust me) of problems can be solved by coding. I believe in a better world being created by creative, proactive and - above all - **human people**.<br/>
+Developer who loves codes. *And coffee*. Computer Science student at Faculdade Nova Roma. 
+
+:earth_africa:  Recife, PE <br/>
 
 
 ## FIND ME
